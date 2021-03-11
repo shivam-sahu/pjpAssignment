@@ -3,3 +3,4 @@ random text file
 added by person1
 added by person2
 stash example added by person1
+stash example added by master
